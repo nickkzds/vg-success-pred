@@ -37,7 +37,8 @@ Comment: The HeatMap that shows the bi-variate analysis lacks the name of the st
   o Outlined both Spearman and Pearson
 
 
-•	I would also like to see a comprehensive exploratory analysis, including univariate and bivariate analyses, and once completed, please upload the report to your GitHub account and share the link.
+Comment:	I would also like to see a comprehensive exploratory analysis, including univariate and bivariate analyses, and once completed, please upload the report to your GitHub account and share the link.
+  
   o Visualized Critic Scores via box plot	
   o Visualized Genres of game and their sales in Japan and North America
 
